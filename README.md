@@ -29,7 +29,6 @@ BDMG小组的资源分享平台，包含工程代码、学习资料、数据集�
 |描述|链接|
 |---|---|  
 |simple guide|https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf |
-||http://www.stanford.edu/~montanar/TEACHING/Stat319/papers/cover_nn.pdf  |
 
 
 [scikit-learn SVM](http://scikit-learn.org/stable/modules/svm.html)
