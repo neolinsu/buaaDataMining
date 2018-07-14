@@ -21,8 +21,10 @@ BDMG小组的资源分享平台，包含工程代码、学习资料、数据集�
 
 
 ### 基础模型选择
-在搭建好学习环境后可以选择自己喜欢的基础模型进行深入探索，在阅读一定综述（两到三篇）后，理解模型的基本工作原理和适用范围后，复现在scikit-learn中给出的sample。完成上述工作后，准备一个8分钟左右的小展示，简要介绍所学模型的基本特点，并且演示自己复现的sample。
+在搭建好学习环境后可以选择自己喜欢的基础模型进行深入探索。在阅读一定综述（两到三篇），理解模型的基本工作原理和适用范围之后，复现在scikit-learn中给出的[sample](http://scikit-learn.org/stable/auto_examples/index.html)。完成上述工作后，**准备一个8分钟左右的小展示**，简要介绍所学模型的基本特点，并且演示自己复现的[sample](http://scikit-learn.org/stable/auto_examples/index.html)。
 这里给出几类经典模型。
+
+
 #### Support Vector Machines (SVM)
 理论完备的经典分类模型。
 
