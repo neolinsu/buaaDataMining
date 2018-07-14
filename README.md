@@ -14,9 +14,9 @@
 实践所用的语言以python为主。为了降低环境配置难度，建议选择anaconda(or miniconda)，并将anaconda的下载源换成国内的服务器后进行环境配置的工作。    
 |Description|Link|  
 |---|---|    
-| anaconda| [https://anaconda.org](https://anaconda.org)|
-| anaconda 更换源　|[https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)|
-|anaconda 安装scikit-learn| [https://anaconda.org/anaconda/scikit-learn](https://anaconda.org/anaconda/scikit-learn)|
+| anaconda| [https://anaconda.org](https://anaconda.org) |
+| anaconda 更换源　|[https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/) |
+|anaconda 安装scikit-learn| [https://anaconda.org/anaconda/scikit-learn](https://anaconda.org/anaconda/scikit-learn) |
 
 ### 基础模型选择
 在搭建好学习环境后可以选择自己喜欢的基础模型进行深入探索，在阅读一定综述（两到三篇）后，理解模型的基本工作原理和适用范围后，复现在scikit-learn中给出的sample。完成上述工作后，准备一个8分钟左右的小展示，简要介绍所学模型的基本特点，并且演示自己复现的sample。
