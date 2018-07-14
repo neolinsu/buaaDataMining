@@ -16,7 +16,7 @@ BDMG小组的资源分享平台，包含工程代码、学习资料、数据集�
 |描述|链接|    
 |---|---|  
 | anaconda | [https://anaconda.org](https://anaconda.org) |  
-| anaconda 更换源　| [https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/] (https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/) |  
+| anaconda 更换源　| [https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/) |  
 |anaconda 安装scikit-learn| [https://anaconda.org/anaconda/scikit-learn](https://anaconda.org/anaconda/scikit-learn) |  
 
 
